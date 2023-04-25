@@ -29,13 +29,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Git/GameTicTacToe",
+    "last_opened_file_path": "C:/Git/GameTicTacToe/src/res",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "configurable.group.build",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +78,9 @@
       <workItem from="1678995249887" duration="692000" />
       <workItem from="1678995969501" duration="2217000" />
       <workItem from="1682371777499" duration="507000" />
-      <workItem from="1682446222951" duration="621000" />
+      <workItem from="1682446222951" duration="1012000" />
+      <workItem from="1682450415606" duration="51000" />
+      <workItem from="1682450487655" duration="603000" />
     </task>
     <servers />
   </component>
